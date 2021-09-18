@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.774e4170.chunk.css",
-    "main.js": "/static/js/main.bd65b203.chunk.js",
-    "main.js.map": "/static/js/main.bd65b203.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1a622b74.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1a622b74.js.map",
-    "static/js/2.617a66e1.chunk.js": "/static/js/2.617a66e1.chunk.js",
-    "static/js/2.617a66e1.chunk.js.map": "/static/js/2.617a66e1.chunk.js.map",
-    "static/js/3.1b5de93e.chunk.js": "/static/js/3.1b5de93e.chunk.js",
-    "static/js/3.1b5de93e.chunk.js.map": "/static/js/3.1b5de93e.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.774e4170.chunk.css.map": "/static/css/main.774e4170.chunk.css.map",
-    "static/js/2.617a66e1.chunk.js.LICENSE.txt": "/static/js/2.617a66e1.chunk.js.LICENSE.txt"
+    "main.css": "/xirr/static/css/main.774e4170.chunk.css",
+    "main.js": "/xirr/static/js/main.bd65b203.chunk.js",
+    "main.js.map": "/xirr/static/js/main.bd65b203.chunk.js.map",
+    "runtime-main.js": "/xirr/static/js/runtime-main.d51643e2.js",
+    "runtime-main.js.map": "/xirr/static/js/runtime-main.d51643e2.js.map",
+    "static/js/2.617a66e1.chunk.js": "/xirr/static/js/2.617a66e1.chunk.js",
+    "static/js/2.617a66e1.chunk.js.map": "/xirr/static/js/2.617a66e1.chunk.js.map",
+    "static/js/3.1b5de93e.chunk.js": "/xirr/static/js/3.1b5de93e.chunk.js",
+    "static/js/3.1b5de93e.chunk.js.map": "/xirr/static/js/3.1b5de93e.chunk.js.map",
+    "index.html": "/xirr/index.html",
+    "static/css/main.774e4170.chunk.css.map": "/xirr/static/css/main.774e4170.chunk.css.map",
+    "static/js/2.617a66e1.chunk.js.LICENSE.txt": "/xirr/static/js/2.617a66e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a622b74.js",
+    "static/js/runtime-main.d51643e2.js",
     "static/js/2.617a66e1.chunk.js",
     "static/css/main.774e4170.chunk.css",
     "static/js/main.bd65b203.chunk.js"
